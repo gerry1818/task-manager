@@ -36,7 +36,7 @@ A RESTful API built with **Go (Golang)** for managing tasks. The API enables use
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/gerry1818/task-manager-api.git
+git clone https://github.com/gerry1818/task-manager.git
 cd task-manager-api
 ```
 
